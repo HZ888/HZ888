@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HZ888
 - 👀 I’m interested in statistics, numbers and trends
-- 🌱 I’m currently learning biostatistics in healthcare and data science
+- 🌱 I’m currently working in biostatistics in healthcare and data science
 - 💞️ I’m looking to collaborate on clinical trials research methods and causual inference
 - 📫 
 
